@@ -14,19 +14,6 @@
 
 <br>
 
-## 의료 (Medicine)
-
-| 회사명 | 소개 / 키워드 | 관련 링크 |
-|------|------------|---------|
-| [노을](https://noul.kr/) | | |
-| [뉴로핏](https://www.neurophet.com/) | | |
-| [루닛](https://www.lunit.io/) | | |
-| [메디컬 아이피](http://www.medicalip.com/) |  |  |
-| [뷰노](https://www.vuno.co/) | | |
-| [코어라인 소프트](https://www.corelinesoft.com/) | | |
-
-<br>
-
 ## 신약개발 (Pharma)
 
 | 회사명 | 소개 / 키워드 | 관련 링크 |
@@ -38,3 +25,16 @@
 | [온코크로스](http://oncocross.com/) | | |
 | [스탠다임](https://www.standigm.com/) | | |
 | [카이팜](http://www.kaipharm.com/) | | |
+
+<br>
+
+## 의료 (Medicine)
+
+| 회사명 | 소개 / 키워드 | 관련 링크 |
+|------|------------|---------|
+| [노을](https://noul.kr/) | | |
+| [뉴로핏](https://www.neurophet.com/) | | |
+| [루닛](https://www.lunit.io/) | | |
+| [메디컬 아이피](http://www.medicalip.com/) |  |  |
+| [뷰노](https://www.vuno.co/) | | |
+| [코어라인 소프트](https://www.corelinesoft.com/) | | |
