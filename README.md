@@ -38,3 +38,6 @@
 | [메디컬 아이피 (Medical IP)](http://www.medicalip.com/) |  |  |
 | [뷰노 (VUNO)](https://www.vuno.co/) | | |
 | [코어라인 소프트 (Coreline Soft)](https://www.corelinesoft.com/) | | |
+| [제이엘케이 (JLK)](http://jlkgroup.com/#/medical/main) | | |
+| [딥바이오 (deepbio)](https://www.deepbio.co.kr/) | | |
+| [네오펙트 (neofect)](https://www.neofect.com/kr) | | |
