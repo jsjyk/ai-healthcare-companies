@@ -11,6 +11,7 @@
 | 회사명 | 소개 / 키워드 | 관련 링크 |
 |------|------------|---------|
 | [씨젠 (Seegene)](https://www.seegene.co.kr/) | | |
+| [아이엠비디엑스 (IMBDx)](http://www.imbdx.com) | | |
 
 <br>
 
