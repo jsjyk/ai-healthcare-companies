@@ -42,3 +42,5 @@
 | [제이엘케이 (JLK)](http://jlkgroup.com/#/medical/main) | | |
 | [딥바이오 (deepbio)](https://www.deepbio.co.kr/) | | |
 | [네오펙트 (neofect)](https://www.neofect.com/kr) | | |
+| [이마고웍스 (Imagoworks)](https://www.imagoworks.ai/) | | | 
+| [에이아이트릭스 (AITRICS)](https://www.aitrics.com/) | | | 
