@@ -44,3 +44,4 @@
 | [네오펙트 (neofect)](https://www.neofect.com/kr) | | |
 | [이마고웍스 (Imagoworks)](https://www.imagoworks.ai/) | | | 
 | [에이아이트릭스 (AITRICS)](https://www.aitrics.com/) | | | 
+| [라인웍스 (linewalks)](https://linewalks.com/) | | | 
