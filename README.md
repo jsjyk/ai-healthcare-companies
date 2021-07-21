@@ -28,3 +28,4 @@
 | [제이엘케이 (JLK)](http://jlkgroup.com/#/medical/main) | | | O | | |
 | [카이팜 (KaiPharm)](http://www.kaipharm.com/) | | O | | | |
 | [코어라인 소프트 (Coreline Soft)](https://www.corelinesoft.com/) | | | O | | |
+| [라인웍스 (linewalks)](https://linewalks.com/) | | | O | | |
