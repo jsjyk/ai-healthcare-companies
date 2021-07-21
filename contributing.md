@@ -1,6 +1,6 @@
 # Contributing to list
 
-👍 시간을 내어, contribution 해주셔서 감사합니다! 👍
+시간을 내어, contribution 해주셔서 감사합니다!👍
 
 <br>
 
